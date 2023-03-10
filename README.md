@@ -5,7 +5,7 @@
 [pdsnd_github] or **Let's Explore Some Bikeshare Data!**
 
 ## Description
-This project examines some statistical analysis of bike share data from 3 cities: New York, Chicago, and Washington.
+This project examines some statistical analysis of bike share data from 3 cities: New York, Chicago, and Washington.  It was written to complete a nanodegree from Udacity in Programming with Python for Data Science.
 
 ### Files used
 These are the files necessary to run the program.
