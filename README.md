@@ -1,17 +1,28 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+10 March 2023
 
-### Project Title
-Replace the Project Title
+# Project Title
+[pdsnd_github] or **Let's Explore Some Bikeshare Data!**
 
-### Description
-Describe what your project is about and what it does
+## Description
+This project examines some statistical analysis of bike share data from 3 cities: New York, Chicago, and Washington.
 
 ### Files used
-Include the files used
+These are the files necessary to run the program.
+
+- bikeshare.py
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+If you have any question about this program, do not hesitate to contact me by opening an issue on GitHub.
+
+These are some websites that I was inspired by when writing this code.
+
+* https://sparkbyexamples.com/pandas/pandas-get-day-month-and-year-from-datetime/
+* https://stackoverflow.com/questions/28009370/get-weekday-day-of-week-for-datetime-column-of-dataframe
+* https://practicaldatascience.co.uk/data-science/how-to-find-the-most-common-value-in-a-pandas-column
+* https://stackoverflow.com/questions/47136436/python-pandas-convert-value-counts-output-to-dataframe
 
