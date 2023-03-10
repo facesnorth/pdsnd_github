@@ -25,4 +25,5 @@ These are some websites that I was inspired by when writing this code.
 * https://stackoverflow.com/questions/28009370/get-weekday-day-of-week-for-datetime-column-of-dataframe
 * https://practicaldatascience.co.uk/data-science/how-to-find-the-most-common-value-in-a-pandas-column
 * https://stackoverflow.com/questions/47136436/python-pandas-convert-value-counts-output-to-dataframe
-
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists
+* https://github.com/vinta/awesome-python/blob/master/README.md
